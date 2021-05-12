@@ -15,7 +15,7 @@
     "oauth": "^0.9.14",
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
-    "trim": "0.0.1"
+    "trim": "0.0.3"
   },
   "repository": {
     "type": "git",
